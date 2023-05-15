@@ -1,0 +1,782 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/zsy11/Desktop/VHDL/test
+Ealu
+Z0 w1684132252
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/zsy11/Desktop/VHDL/final
+Z7 8C:/Users/zsy11/Desktop/VHDL/final/vhdl/alu.vhd
+Z8 FC:/Users/zsy11/Desktop/VHDL/final/vhdl/alu.vhd
+l0
+L7
+V`G4KEM]eL4hHLWEdRg?GX1
+!s100 VU1:2=_8DdF:[5UcJzM6?2
+Z9 OV;C;10.5b;63
+32
+Z10 !s110 1684135742
+!i10b 1
+Z11 !s108 1684135742.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/vhdl/alu.vhd|
+Z13 !s107 C:/Users/zsy11/Desktop/VHDL/final/vhdl/alu.vhd|
+!i113 1
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1 CvgOpt 0
+Aalu_behavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 `G4KEM]eL4hHLWEdRg?GX1
+l21
+L18
+VCYCb`LAYdRSEg8DTLYF]70
+!s100 gPA`c9E?Bl8[Fd8mO8C3f0
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ealu_tb
+Z16 w1684134443
+R1
+R2
+R4
+R5
+R6
+Z17 8C:/Users/zsy11/Desktop/VHDL/final/tb/alu_tb.vhd
+Z18 FC:/Users/zsy11/Desktop/VHDL/final/tb/alu_tb.vhd
+l0
+L5
+V5z^WFN9@N9@hb5J01YL0_0
+!s100 z^k4VcAiDJYFNIVUSe8^n0
+R9
+32
+Z19 !s110 1684135743
+!i10b 1
+Z20 !s108 1684135743.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/tb/alu_tb.vhd|
+Z22 !s107 C:/Users/zsy11/Desktop/VHDL/final/tb/alu_tb.vhd|
+!i113 1
+R14
+R15
+Aalu_tb_behaviro
+R1
+R2
+R4
+R5
+Z23 DEx4 work 6 alu_tb 0 22 5z^WFN9@N9@hb5J01YL0_0
+l31
+L9
+VIUj<Fj04:72_YE1=GV=di0
+!s100 A0CUMh_T^YV[I1Ckl5H<71
+R9
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R14
+R15
+Abehave
+R1
+R2
+R4
+R5
+R23
+l31
+L9
+V_n^A@1C_3`J9`];dfZmU62
+!s100 2`j_DUIodUBYIN3kdjMNa0
+R9
+32
+Z24 !s110 1684132923
+!i10b 1
+Z25 !s108 1684132923.000000
+R21
+R22
+!i113 1
+R14
+R15
+Z26 w1684127174
+Econtrol_unit
+Z27 w1684132815
+R1
+R2
+R3
+R4
+R5
+R6
+Z28 8C:\Users\zsy11\Desktop\VHDL\final\vhdl\control_unit.vhd
+Z29 FC:\Users\zsy11\Desktop\VHDL\final\vhdl\control_unit.vhd
+l0
+L6
+VAWbZM;J0eGAa]Ed^>Z@KJ2
+!s100 AM5@Ij3K9l]Yo2Nj4<mjD1
+R9
+32
+R19
+!i10b 1
+R20
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\zsy11\Desktop\VHDL\final\vhdl\control_unit.vhd|
+Z31 !s107 C:\Users\zsy11\Desktop\VHDL\final\vhdl\control_unit.vhd|
+!i113 1
+R14
+R15
+Acontrol_unit_behavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 12 control_unit 0 22 AWbZM;J0eGAa]Ed^>Z@KJ2
+l19
+L16
+V<4Mj_DAjT:MO_HBDdib^B2
+!s100 X1h3QJ?NIlRff[aAobXK[1
+R9
+32
+R19
+!i10b 1
+R20
+R30
+R31
+!i113 1
+R14
+R15
+Ecpu
+Z32 w1684135197
+R1
+R2
+R3
+R4
+R5
+R6
+Z33 8C:\Users\zsy11\Desktop\VHDL\final\vhdl\cpu.vhd
+Z34 FC:\Users\zsy11\Desktop\VHDL\final\vhdl\cpu.vhd
+l0
+L8
+Vn6GUmFLR6HbR3bcRiDZ5Z1
+!s100 LDaLhPaizLdZ@djO62CCQ3
+R9
+32
+R19
+!i10b 1
+R20
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\zsy11\Desktop\VHDL\final\vhdl\cpu.vhd|
+Z36 !s107 C:\Users\zsy11\Desktop\VHDL\final\vhdl\cpu.vhd|
+!i113 1
+R14
+R15
+Acpu_behaviro
+R1
+R2
+R3
+R4
+R5
+Z37 DEx4 work 3 cpu 0 22 n6GUmFLR6HbR3bcRiDZ5Z1
+l122
+L19
+VdRo:B`QUk2JVcmk3_mQ>_0
+!s100 eHZg@jd8lBhM`bYR8=iEb2
+R9
+32
+R19
+!i10b 1
+R20
+R35
+R36
+!i113 1
+R14
+R15
+Abehave
+R1
+R2
+R3
+R4
+R5
+R37
+l122
+L19
+VmkzH>FQ8jb_Q:cde3K_cD2
+!s100 QGf?9;ncgg48okN_HAH[^3
+R9
+32
+!s110 1684134881
+!i10b 1
+!s108 1684134881.000000
+R35
+R36
+!i113 1
+R14
+R15
+w1684134955
+Ecpu_tb
+Z38 w1684135422
+R2
+R1
+R4
+R5
+R6
+Z39 8C:/Users/zsy11/Desktop/VHDL/final/tb/cpu_tb.vhd
+Z40 FC:/Users/zsy11/Desktop/VHDL/final/tb/cpu_tb.vhd
+l0
+L7
+VX`hIF]gA_l86[?Nh40;]J1
+!s100 ;fiBFnCFWXk995z^m;@>l2
+R9
+32
+R19
+!i10b 1
+R20
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/tb/cpu_tb.vhd|
+Z42 !s107 C:/Users/zsy11/Desktop/VHDL/final/tb/cpu_tb.vhd|
+!i113 1
+R14
+R15
+Acpu_tb_behavior
+R2
+R1
+R4
+R5
+Z43 DEx4 work 6 cpu_tb 0 22 X`hIF]gA_l86[?Nh40;]J1
+l35
+L14
+VfCV463VaQRXHfLi5PiV6T2
+!s100 ml;>`gS=eg^giVDXI7C]m1
+R9
+32
+R19
+!i10b 1
+R20
+R41
+R42
+!i113 1
+R14
+R15
+Abehave
+R2
+R1
+R4
+R5
+R43
+l35
+L14
+Vf47RSP5Ih]nfocJ=jC4]I0
+!s100 K_AS[b3Coh52J>Dbb>5V01
+R9
+32
+Z44 !s110 1684132924
+!i10b 1
+Z45 !s108 1684132924.000000
+R41
+R42
+!i113 1
+R14
+R15
+w1684130846
+Ecu_tb
+Z46 w1684134648
+R4
+R5
+R6
+Z47 8C:/Users/zsy11/Desktop/VHDL/final/tb/cu_tb.vhd
+Z48 FC:/Users/zsy11/Desktop/VHDL/final/tb/cu_tb.vhd
+l0
+L5
+VlRh0h83lJ31gJ_9P7BYN02
+!s100 EQU9e<=ABQz19KG17kGfb3
+R9
+32
+R19
+!i10b 1
+R20
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/tb/cu_tb.vhd|
+Z50 !s107 C:/Users/zsy11/Desktop/VHDL/final/tb/cu_tb.vhd|
+!i113 1
+R14
+R15
+Acu_tb_behavior
+R4
+R5
+Z51 DEx4 work 5 cu_tb 0 22 lRh0h83lJ31gJ_9P7BYN02
+l28
+L9
+Z52 Vh=zG`nB=JHRdNZOl_==1F1
+Z53 !s100 U>4UDBc@0OZ?P?bOThN]k2
+R9
+32
+R19
+!i10b 1
+R20
+R49
+R50
+!i113 1
+R14
+R15
+Ecu_test
+Z54 w1684133155
+R4
+R5
+R6
+Z55 8C:/Users/zsy11/Desktop/VHDL/final/tb/cu_test.vhd
+Z56 FC:/Users/zsy11/Desktop/VHDL/final/tb/cu_test.vhd
+l0
+L5
+VIdWVk1Y66e=[zNNMV73D32
+!s100 oMF^JeVf:1G9=<DTo5:j53
+R9
+32
+Z57 !s110 1684133296
+!i10b 1
+Z58 !s108 1684133296.000000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/tb/cu_test.vhd|
+Z60 !s107 C:/Users/zsy11/Desktop/VHDL/final/tb/cu_test.vhd|
+!i113 1
+R14
+R15
+Acu_test_behavior
+R4
+R5
+DEx4 work 7 cu_test 0 22 IdWVk1Y66e=[zNNMV73D32
+l30
+L9
+VAAfj[D1lPD6RYVXj9H;6c0
+!s100 SBO_T0dNDGngnd7ol@X_N2
+R9
+32
+R57
+!i10b 1
+R58
+R59
+R60
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 7 cu_test 0 22 @1TV9H>QTGeYLf2OJ0LO60
+l59
+L38
+V;:[6[]5nk=AaT0S7BG5=j2
+!s100 ig@LQF8@XBHkK69m==N>i1
+R9
+32
+R44
+!i10b 1
+R45
+R59
+R60
+!i113 1
+R14
+R15
+R26
+Emar
+Z61 w1684131842
+R1
+R2
+R4
+R5
+R6
+Z62 8C:/Users/zsy11/Desktop/VHDL/final/vhdl/mar.vhd
+Z63 FC:/Users/zsy11/Desktop/VHDL/final/vhdl/mar.vhd
+l0
+L5
+VlD^?jf5fK>=hT5TI6El8e0
+!s100 MSS^`<2N6Z1W3_VnM_K@Q2
+R9
+32
+R19
+!i10b 1
+R20
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/vhdl/mar.vhd|
+Z65 !s107 C:/Users/zsy11/Desktop/VHDL/final/vhdl/mar.vhd|
+!i113 1
+R14
+R15
+Amar_behaviro
+R1
+R2
+R4
+R5
+DEx4 work 3 mar 0 22 lD^?jf5fK>=hT5TI6El8e0
+l19
+L15
+V0LN7?4O?WYD?UBBTTePKd0
+!s100 >dSQ0PE5jU27C^YADoK4m2
+R9
+32
+R19
+!i10b 1
+R20
+R64
+R65
+!i113 1
+R14
+R15
+Emem_tb
+R26
+R1
+R2
+R4
+R5
+R6
+Z66 8C:/Users/zsy11/Desktop/VHDL/final/tb/mar_mem_tb.vhd
+Z67 FC:/Users/zsy11/Desktop/VHDL/final/tb/mar_mem_tb.vhd
+l0
+L5
+V0MNXb`jCzOOhF4Y371BP^1
+!s100 0=a4[eMoQ;3:`NMlh=EkY0
+R9
+32
+R44
+!i10b 1
+R45
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/tb/mar_mem_tb.vhd|
+Z69 !s107 C:/Users/zsy11/Desktop/VHDL/final/tb/mar_mem_tb.vhd|
+!i113 1
+R14
+R15
+Abehave
+R1
+R2
+R4
+R5
+DEx4 work 6 mem_tb 0 22 0MNXb`jCzOOhF4Y371BP^1
+l46
+L9
+VaA;o2<okaXIUz^R<X1dTf2
+!s100 R>aRgAbjAFOjYhehz98]40
+R9
+32
+R44
+!i10b 1
+R45
+R68
+R69
+!i113 1
+R14
+R15
+Emememory_tb
+Z70 w1684134172
+R1
+R2
+R4
+R5
+R6
+Z71 8C:/Users/zsy11/Desktop/VHDL/final/tb/mememory_tb.vhd
+Z72 FC:/Users/zsy11/Desktop/VHDL/final/tb/mememory_tb.vhd
+l0
+L5
+V6BllD4eiilP7O1C0KOBQ91
+!s100 0O;oc790czz2X:>j8L63o1
+R9
+32
+R19
+!i10b 1
+R20
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/tb/mememory_tb.vhd|
+Z74 !s107 C:/Users/zsy11/Desktop/VHDL/final/tb/mememory_tb.vhd|
+!i113 1
+R14
+R15
+Amememory_tb_behavior
+R1
+R2
+R4
+R5
+DEx4 work 11 mememory_tb 0 22 6BllD4eiilP7O1C0KOBQ91
+l46
+L9
+V3SdRYDzoAeMnzB9oC8ah:2
+!s100 AWlCl]NV_eJ[zZCB06B>Q1
+R9
+32
+R19
+!i10b 1
+R20
+R73
+R74
+!i113 1
+R14
+R15
+Ememory
+Z75 w1684135736
+Z76 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R3
+R1
+R2
+R4
+R5
+R6
+Z77 8C:/Users/zsy11/Desktop/VHDL/final/vhdl/memory.vhd
+Z78 FC:/Users/zsy11/Desktop/VHDL/final/vhdl/memory.vhd
+l0
+L10
+VeSH0f_l>HSQG<^n<0eYBe3
+!s100 boS;Bhd=7L>O6@TfR3G1Y0
+R9
+32
+R19
+!i10b 1
+R20
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/vhdl/memory.vhd|
+Z80 !s107 C:/Users/zsy11/Desktop/VHDL/final/vhdl/memory.vhd|
+!i113 1
+R14
+R15
+Amemory_behavior
+R76
+R3
+R1
+R2
+R4
+R5
+DEx4 work 6 memory 0 22 eSH0f_l>HSQG<^n<0eYBe3
+l30
+L22
+V5dJaG_^NWb<TTldcXzI>]0
+!s100 k6g4W[nzZA<0@K:JYXH<P0
+R9
+32
+R19
+!i10b 1
+R20
+R79
+R80
+!i113 1
+R14
+R15
+Epc
+Z81 w1684132120
+R1
+R2
+R4
+R5
+R6
+Z82 8C:/Users/zsy11/Desktop/VHDL/final/vhdl/pc.vhd
+Z83 FC:/Users/zsy11/Desktop/VHDL/final/vhdl/pc.vhd
+l0
+L6
+V63ol3jbO5:Kzh8501BEKR3
+!s100 ID;F0IjL4Xd=Q[_H_V<:h2
+R9
+32
+R19
+!i10b 1
+R20
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/vhdl/pc.vhd|
+Z85 !s107 C:/Users/zsy11/Desktop/VHDL/final/vhdl/pc.vhd|
+!i113 1
+R14
+R15
+Apc_behavior
+R1
+R2
+R4
+R5
+DEx4 work 2 pc 0 22 63ol3jbO5:Kzh8501BEKR3
+l22
+L18
+VNm^?PQY>RRI>J1i]HFH>63
+!s100 T[5X?[14@I^9`DQ^Beza41
+R9
+32
+R19
+!i10b 1
+R20
+R84
+R85
+!i113 1
+R14
+R15
+Epc_tb
+Z86 w1684133769
+R1
+R2
+R4
+R5
+R6
+Z87 8C:/Users/zsy11/Desktop/VHDL/final/tb/pc_tb.vhd
+Z88 FC:/Users/zsy11/Desktop/VHDL/final/tb/pc_tb.vhd
+l0
+L5
+V9<QF;SJ@WhAN3@zL1RPfz3
+!s100 4J?Amm2<]BdGMEO82Ychj3
+R9
+32
+R19
+!i10b 1
+R20
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/tb/pc_tb.vhd|
+Z90 !s107 C:/Users/zsy11/Desktop/VHDL/final/tb/pc_tb.vhd|
+!i113 1
+R14
+R15
+Apc_tb_behaviro
+R1
+R2
+R4
+R5
+Z91 DEx4 work 5 pc_tb 0 22 9<QF;SJ@WhAN3@zL1RPfz3
+l33
+L9
+VPYl?;IbM4?fB:QkY@6^l72
+!s100 5PVSz8L[GA2[mQALKT]k<3
+R9
+32
+R19
+!i10b 1
+R20
+R89
+R90
+!i113 1
+R14
+R15
+Abehave
+R1
+R2
+R4
+R5
+R91
+l33
+L9
+Ve[hZ2I:SAi2=7^2aA;7e@3
+!s100 zMg5dJ5PzRRVna2OlBc:D2
+R9
+32
+R44
+!i10b 1
+R45
+R89
+R90
+!i113 1
+R14
+R15
+R26
+Ereg
+Z92 w1684132852
+R1
+R2
+R4
+R5
+R6
+Z93 8C:/Users/zsy11/Desktop/VHDL/final/vhdl/reg.vhd
+Z94 FC:/Users/zsy11/Desktop/VHDL/final/vhdl/reg.vhd
+l0
+L5
+V;Ud^bZe49z^:]@WlNezBo2
+!s100 6e5DfczXHXDzWnZ1boN3j1
+R9
+32
+R10
+!i10b 1
+R11
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/vhdl/reg.vhd|
+Z96 !s107 C:/Users/zsy11/Desktop/VHDL/final/vhdl/reg.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R1
+R2
+R4
+R5
+DEx4 work 3 reg 0 22 ;Ud^bZe49z^:]@WlNezBo2
+l25
+L21
+VQhE2DEKYH^D@Y:<=1mIAf3
+!s100 A4;6H96F`VQJgAVKR6n3B2
+R9
+32
+R10
+!i10b 1
+R11
+R95
+R96
+!i113 1
+R14
+R15
+Ereg_tb
+Z97 w1684134121
+R1
+R2
+R4
+R5
+R6
+Z98 8C:/Users/zsy11/Desktop/VHDL/final/tb/reg_tb.vhd
+Z99 FC:/Users/zsy11/Desktop/VHDL/final/tb/reg_tb.vhd
+l0
+L5
+V[LAL4>Hka;O58ogG>@=Ga2
+!s100 kFTA_]F2Ii3O_iYATN7Ka0
+R9
+32
+R19
+!i10b 1
+R20
+Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zsy11/Desktop/VHDL/final/tb/reg_tb.vhd|
+Z101 !s107 C:/Users/zsy11/Desktop/VHDL/final/tb/reg_tb.vhd|
+!i113 1
+R14
+R15
+Areg_tb_behavior
+R1
+R2
+R4
+R5
+Z102 DEx4 work 6 reg_tb 0 22 [LAL4>Hka;O58ogG>@=Ga2
+l33
+L9
+V5nAY1IhdT]HHG8bTTWOln2
+!s100 UNJ^9>@dAK8SOIh=1<Vhk2
+R9
+32
+R19
+!i10b 1
+R20
+R100
+R101
+!i113 1
+R14
+R15
+Abehave
+R1
+R2
+R4
+R5
+R102
+l33
+L9
+VN2IBRgbJSB^NC]JP;l0Y92
+!s100 b9@0>]eT^UL=TVQMReDC=1
+R9
+32
+R24
+!i10b 1
+R25
+R100
+R101
+!i113 1
+R14
+R15
+R26
